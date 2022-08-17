@@ -32,3 +32,5 @@
 В наборе данных имеется:
 * Строк - 390348
 * Столбцов - 9
+
+Для скачивания набора данных можно воспользоваться ссылкой:  https://github.com/george101010/Prices-for-printing-orders-at-One-Book/blob/85d30ad31ed1b0ebc1d17af0035d558769af8934/Data/one_book_prices.xlsx
